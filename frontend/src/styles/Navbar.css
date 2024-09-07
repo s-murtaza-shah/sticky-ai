@@ -1,0 +1,59 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #b8860b;
+    padding: 10px 20px;
+}
+
+.navbar-left .app-title {
+    font-family: 'Georgia', serif;
+    font-size: 45px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 7%;
+    margin-top: 7%;
+}
+
+.navbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.user-photo {
+    width: 47px;
+    height: 47px;
+    border-radius: 50%;
+    border: 2px solid silver;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.user-photo:hover {
+    box-shadow: 0 0 20px silver;
+}
+
+.user-name {
+    margin-left: 15px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+.logout-button {
+    margin-left: 25px;
+    padding: 8px 15px;
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+    color: #b8860b;
+    background-color: white;
+    border: 2px solid #b8860b;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.logout-button:hover {
+    background-color: #b8860b;
+    border-color: white;
+    color: white;
+}

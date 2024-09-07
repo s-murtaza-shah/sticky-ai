@@ -1,0 +1,58 @@
+.create-note-form {
+    position: relative;
+    background: #ededc2;
+    border-radius: 8px;
+    border: 5px solid #EAECEC;
+    padding: 15px;
+    width: 530px;
+    height: 140px;
+    margin: 30px auto 70px auto;
+    font-family: "Montserrat", sans-serif;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.create-note-form:hover {
+    box-shadow: 0 0 16px #EAECEC;
+}
+
+.note-info {
+    background: #ededc2;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 1.2em;
+    font-family: inherit;
+    padding: 5px;
+    resize: none;
+    
+}
+
+.content {
+    height: 78px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.add-button {
+    position: absolute;
+    border-radius: 50%;
+    height: 48px;
+    width: 48px;
+    right: 24px;
+    bottom: -24px;
+    font-family: inherit;
+    font-size: 40px;
+    background-color: #f5ba13;
+    color: white;
+    border: 2px solid #f5ba13;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.add-button:hover {
+    background-color: white;
+    color: #f5ba13;
+    border-color: white;
+    cursor: pointer;
+}
