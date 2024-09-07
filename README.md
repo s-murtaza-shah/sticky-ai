@@ -19,4 +19,5 @@
   <li>Passport.js (local and google sign-in strategies)</li>
   <li>Bcrypt.js</li>
   <li>Google Gemini AI API</li>
+  <li>HTML, CSS, JavaScript</li>
 </ul>
