@@ -22,3 +22,14 @@
   <li>RESTful API to communicate between frontend and backend, and to manage data</li>
   <li>HTML, CSS, JavaScript</li>
 </ul>
+
+## Images
+![image](https://github.com/user-attachments/assets/d1272739-c8cc-4849-831d-79b187a119ad)
+![image](https://github.com/user-attachments/assets/462d9820-119c-4991-8609-6b34181326ab)
+![image](https://github.com/user-attachments/assets/0828b4cd-dd51-4655-afbc-e73115f3aaeb)
+![image](https://github.com/user-attachments/assets/4f6895f4-a70f-46d4-997e-72d55c190a4e)
+![image](https://github.com/user-attachments/assets/1bb42685-427c-42c5-b667-c67184687ab1)
+
+
+
+
