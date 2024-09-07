@@ -8,3 +8,15 @@
   <li>Create, read, update, and delete notes</li>
   <li>Chat with an AI notes assistant to get help with prioritizing your tasks/notes or any other notes-related issues</li>
 </ul>
+
+## Technologies used
+<ul>
+  <li>React</li>
+  <li>Node</li>
+  <li>Express</li>
+  <li>PostgreSQL</li>
+  <li>Axios</li>
+  <li>Passport.js (local and google sign-in strategies)</li>
+  <li>Bcrypt.js</li>
+  <li>Google Gemini AI API</li>
+</ul>
