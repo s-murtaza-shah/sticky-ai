@@ -4,7 +4,7 @@
 ## Features
 <ul>
   <li>Login locally using the traditional username and password style</li>
-  <li>LLogin using Google authentication and connect to your Google account</li>
+  <li>Login using Google authentication and connect to your Google account</li>
   <li>Create, read, update, and delete notes</li>
   <li>Chat with an AI notes assistant to get help with prioritizing your tasks/notes or any other notes-related issues</li>
 </ul>
