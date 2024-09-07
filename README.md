@@ -1,1 +1,1 @@
-sticky-ai
+# StickyAI
