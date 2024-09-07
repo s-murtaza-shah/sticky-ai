@@ -1,6 +1,6 @@
 .register-container {
     display: flex;
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     overflow: hidden;
     animation: slideIn 0.5s ease-out forwards;
@@ -16,19 +16,19 @@
 }
 
 .left-section {
-    background-color: #b8860b;
+    background-color: #B59410;
     color: #ffffff;
     text-align: center;
 }
 
 .app-name {
-    font-size: 36px;
+    font-size: 56px;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .app-slogan {
-    font-size: 18px;
+    font-size: 38px;
     margin-bottom: 30px;
 }
 
@@ -40,11 +40,11 @@
 
 .right-section h2 {
     margin-bottom: 20px;
-    color: #b8860b;
+    color: #B59410;
 }
 
 .register-form input {
-    width: 100%;
+    width: 95%;
     padding: 12px;
     margin: 10px 0;
     background-color: #444444;
@@ -64,9 +64,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #b8860b;
+    background-color: #B59410;
     color: #000000;
-    transition: ;
+    transition: background-color 0.3s ease-in-out;
 }
 
 .register-button:hover {
@@ -79,7 +79,7 @@
 }
 
 .login-link a {
-    color: #b8860b;
+    color: #B59410;
     text-decoration: underline;
 }
 
