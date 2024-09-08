@@ -22,9 +22,10 @@
   <li>React</li>
   <li>Node</li>
   <li>Express</li>
+  <li>express-session</li>
   <li>PostgreSQL</li>
   <li>Axios</li>
-  <li>Passport.js (local and google sign-in strategies)</li>
+  <li>Passport.js (local and google authentication strategies)</li>
   <li>Bcrypt.js</li>
   <li>Google's Gemini AI API</li>
   <li>RESTful API to communicate between frontend and backend, and to manage data</li>
